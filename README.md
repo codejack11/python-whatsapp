@@ -2,7 +2,7 @@
 WhatsApp Bulk message sender
 
 ## USE
-python wa.py
+` python wa.py `
 
 ## Bulk Messages
 for bulk messages enter path of csv file.
